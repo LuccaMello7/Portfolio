@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://example.com/</link>
+    <link>https://luccamello7.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://luccamello7.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life is about cycles and why you should learn to be patient</title>
-      <link>https://example.com/post/life-cycle-patient/</link>
+      <link>https://luccamello7.github.io/post/life-cycle-patient/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/life-cycle-patient/</guid>
+      <guid>https://luccamello7.github.io/post/life-cycle-patient/</guid>
       <description>I do not know what exactly I am starting to write this text on Medium at dawn. Maybe, it is just to prove myself that everyone can start and finish something E-V-E-R-Y-O-N-E. I also think that this is the story of my life — start something and try to finished then — I always had to initiate all kind of adventures, start and restart courses at University, go ahead with challenges that I gave up.</description>
     </item>
     
     <item>
       <title>A reinvenção do Testador de Software é necessária</title>
-      <link>https://example.com/post/reinvencao-testador-software-e-necessaria/</link>
+      <link>https://luccamello7.github.io/post/reinvencao-testador-software-e-necessaria/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/reinvencao-testador-software-e-necessaria/</guid>
+      <guid>https://luccamello7.github.io/post/reinvencao-testador-software-e-necessaria/</guid>
       <description>O Testador de software precisa se reinventar. Every fucking day. Digo isso, pelo pouco tempo que tenho de experiência dentro da área e para cair um conceito que muita gente tem de que o testador é um cargo que não é tão relevante dentro de uma equipe de desenvolvimento de software. Diante disso, relembro aqui uma das frases que mais me marcou antes de eu ingressar dentro do mercado de TI e que eu ainda tinha dúvidas de qual segmento dentro desse mercado para seguir:</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://luccamello7.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://luccamello7.github.io/contact/</guid>
       <description>If you want to get in touch, please kindly fill the info in the form below and I will respond as soon as I can =)
 Your Name Email Address An email address is required.  Message   </description>
     </item>
