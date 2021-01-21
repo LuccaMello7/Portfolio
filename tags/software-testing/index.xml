@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software-testing on </title>
+    <link>https://example.com/tags/software-testing/</link>
+    <description>Recent content in software-testing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/tags/software-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A reinvenção do Testador de Software é necessária</title>
+      <link>https://example.com/post/reinvencao-testador-software-e-necessaria/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/reinvencao-testador-software-e-necessaria/</guid>
+      <description>O Testador de software precisa se reinventar. Every fucking day. Digo isso, pelo pouco tempo que tenho de experiência dentro da área e para cair um conceito que muita gente tem de que o testador é um cargo que não é tão relevante dentro de uma equipe de desenvolvimento de software. Diante disso, relembro aqui uma das frases que mais me marcou antes de eu ingressar dentro do mercado de TI e que eu ainda tinha dúvidas de qual segmento dentro desse mercado para seguir:</description>
+    </item>
+    
+  </channel>
+</rss>
