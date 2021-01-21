@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://luccamello7.github.io/tags/</link>
+    <link>https://luccamello7.github.io/Portfolio/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://luccamello7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://luccamello7.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>life-cycles</title>
-      <link>https://luccamello7.github.io/tags/life-cycles/</link>
+      <link>https://luccamello7.github.io/Portfolio/tags/life-cycles/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://luccamello7.github.io/tags/life-cycles/</guid>
+      <guid>https://luccamello7.github.io/Portfolio/tags/life-cycles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software-testing</title>
-      <link>https://luccamello7.github.io/tags/software-testing/</link>
+      <link>https://luccamello7.github.io/Portfolio/tags/software-testing/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://luccamello7.github.io/tags/software-testing/</guid>
+      <guid>https://luccamello7.github.io/Portfolio/tags/software-testing/</guid>
       <description></description>
     </item>
     
